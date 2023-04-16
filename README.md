@@ -9,7 +9,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+  - [More about solution](#more-solution)
 - [Author](#author)
 
 ## Overview
@@ -22,8 +22,8 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Interactive rating component](https://github.com/jefferson-gbarbosa/interactive-rating-component-main)
+- Live Site URL: [Interactive rating component](https://jefferson-gbarbosa.github.io/interactive-rating-component-main/)
 
 ## My process
 
@@ -34,30 +34,15 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 - Flexbox
 - CSS Grid
 
-### What I learned
+### More solution
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+This interactive component simulates the action of a user to evaluate a certain service or product in question. It can be used with more ratings or replace the numbering with star icons for a more attractive design.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [interactive-rating-component-main](https://jefferson-gbarbosa.github.io/interactive-rating-component-main/)
+- Frontend Mentor - [Jefferson Gonçalves](https://www.frontendmentor.io/profile/jefferson-gbarbosa)
+- Linkedin - [Jefferson Gonçalves](https://www.linkedin.com/in/jefferson-gbarbosa/)
 
 
 
