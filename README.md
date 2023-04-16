@@ -9,7 +9,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [More about solution](#more-solution)
+  - [More about solution](#more-about-solution)
 - [Author](#author)
 
 ## Overview
