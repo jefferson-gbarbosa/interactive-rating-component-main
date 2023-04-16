@@ -34,7 +34,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 - Flexbox
 - CSS Grid
 
-### More solution
+### More about solution
 
 This interactive component simulates the action of a user to evaluate a certain service or product in question. It can be used with more ratings or replace the numbering with star icons for a more attractive design.
 
