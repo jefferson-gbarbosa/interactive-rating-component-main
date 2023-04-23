@@ -1,7 +1,7 @@
 const button = document.querySelector('button'); 
-const rating = document.querySelector('.rating');
+const rating = document.querySelector('.container');
 const resultSection = document.querySelector('.result');
-const textResult = document.querySelector('#text-result');
+const textResult = document.querySelector('.result h3');
 let starts = document.querySelectorAll("li");
 let countStart = 0;
 

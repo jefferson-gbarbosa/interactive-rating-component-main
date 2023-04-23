@@ -27,20 +27,20 @@ body{
     flex-direction: column;
     min-height: 100vh;   
 }
-.container{
+.rating{
     max-width: 360px;
     background-color: var(--dark-blue);
     padding: 1.5rem;
     border-radius: 1.5em;
     margin-bottom: 4rem;
 }
-.rating .icon{
+.container .header{
     width: 40px;
     height: 40px;
     background-color: var(--grey);
     border-radius: 50%;
 }
-.icon{
+.header{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -83,7 +83,7 @@ ul .start{
 .start.active{
     background-color: var(--orange);
 }
-.rating button{
+.content button{
   width: 100%;
   color: var(--white);
   background-color: var(--orange);
